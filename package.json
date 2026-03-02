@@ -2,14 +2,14 @@
   "name": "uptime-status",
   "version": "1.0.0",
   "private": true,
-  "author": "JLinmr",
-  "url": "https://www.bsgun.cn",
-  "email": "ruoms@qq.com",
+  "author": "Rugu",
+  "url": "https://www.x8xx.cn",
+  "email": "hole8443@gmail.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JLinmr/Uptime-Status"
+    "url": "https://github.com/rugu443/Uptime-Status"
   },
-  "repositoryUrl": "https://github.com/JLinmr/Uptime-Status",
+  "repositoryUrl": "https://github.com/rugu443/Uptime-Status",
   "type": "module",
   "scripts": {
     "dev": "vite",
